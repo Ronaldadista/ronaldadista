@@ -1,4 +1,5 @@
 ## Hi there 👋
+![Ronald Adista](img/dr.w%20project%201.png)
 
 <!--
 **Ronaldadista/ronaldadista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +15,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🏨 I’m currently working on **DR.W Project (Self-Employed)**
+- 💻 I’m currently learning **Automation**, **API** and **Performance Testing**
