@@ -1,5 +1,4 @@
-## Hi there 👋
-![Ronald Adista](img/dr.w%20project%20-removebg.png)
+![Ronald Adista](img/github-header-banner.png)
 
 <!--
 **Ronaldadista/ronaldadista** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
