@@ -9,4 +9,4 @@ I am an experienced Software Quality Assurance Specialist (Manual Tester) with e
 ##### Contact
 ![https://linkedin.com/in/ronald-adista-sqa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://ronaldadista.my.canva.site/](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Portfolio&logoColor=white) 
 
-[![https://linkedin.com/in/ronald-adista-sqa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) ![https://ronaldadista.my.canva.site/](https://img.shields.io/badge/Portfolio-255E63?style=for-the-badge&logo=Portfolio&logoColor=white)](www.linkedin.com)
+[![https://linkedin.com/in/ronald-adista-sqa/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]
